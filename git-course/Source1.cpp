@@ -8,6 +8,8 @@ int main()
 	cout << "Hello World" << endl;
 	cout << "Halnazar" << endl;
 	cout << "Gurbanow" << endl;
+	cout << "Gurbannazarowich" << endl;
+
 
 	system("pause");
 	return 0;
